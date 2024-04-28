@@ -57,7 +57,7 @@ nav select{
     background:linear-gradient(rgb(234, 98, 154),rgb(119, 70, 146)) ;
 }
 .dest .image-resize{
-    height: 200px;
+    height: 300px;
 }
 .dest p span{
     color: rgb(235, 142, 11);
